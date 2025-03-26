@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Bienvenue sur mon GitHub
 
-<!--
-**themimi974/themimi974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 À propos de moi
+Technicien IT passionné, spécialisé en administration système et réseau. Actuellement en formation BTS SIO option SISR, je développe des solutions innovantes pour optimiser les infrastructures IT.
 
-Here are some ideas to get you started:
+## 💼 Domaines d'expertise
+- Administration système Windows Server & Linux
+- Virtualisation (Proxmox, VMware ESXi, Hyper-V)
+- Solutions de sauvegarde et restauration
+- Automatisation et scripting (PowerShell, Python, Bash)
+- Gestion de parc informatique et support utilisateur
+- Sécurité réseau et systèmes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies maîtrisées
+- **Systèmes** : Windows Server, Linux (Debian/Ubuntu)
+- **Virtualisation** : Proxmox, VMware, Hyper-V
+- **Réseau** : VLANs, VPN, Pare-feu
+- **Outils** : Active Directory, GLPI, MDT, Veeam
+- **Scripting** : PowerShell, Python, Bash
+- **Conteneurisation** : Docker
+
+## 📈 Veille technologique
+Je maintiens une veille active sur les dernières innovations en :
+- Intelligence Artificielle appliquée à l'IT
+- Solutions de virtualisation et cloud
+- Sécurité des systèmes d'information
+- Nouvelles technologies d'infrastructure
+
+## 📫 Contact
+Pour toute collaboration professionnelle, n'hésitez pas à me contacter via les issues GitHub.
